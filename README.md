@@ -53,3 +53,38 @@ arduino
 Copy code
 http://localhost:5173
 📸 Screenshots
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/home.png)
+
+### 🛍️ Filter Options
+**Clothing**
+![Filter by Clothing](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/filter_by_clothing.png)
+
+**Electronics**
+![Filter by Electronics](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/filter_by_electronics.png)
+
+**Jewelery**
+![Filter by Jewelery](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/filter_by_jewelery.png)
+
+### 🧮 Sorting
+**Low to High**
+![Sort Low to High](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/sortby_low_to_high.png)
+
+**High to Low**
+![Sort High to Low](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/sortby_high_to_low.png)
+
+**Newest First**
+![Newest First](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/sortby_newest_first.png)
+
+### 🛒 Shopping Cart & Wishlist
+![Shopping Cart](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/shoppingcart.png)
+![Wishlist](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/wishlist.png)
+
+### 🌤️ Weather Details
+![Weather Details](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/weather_details.png)
+
+### ⭐ Ratings
+![Ratings](https://github.com/Moni-02/Shop_Hub-/blob/main/screenshots/rating.png)
+
